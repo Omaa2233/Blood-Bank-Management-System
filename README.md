@@ -47,9 +47,6 @@ This Blood Bank Management System is a web-based application designed to facilit
 - Push your changes to the branch (`git push origin feature/feature-name`).
 - Create a pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Authors
 - [Om Tandulkar](https://github.com/Omaa2233)
 
