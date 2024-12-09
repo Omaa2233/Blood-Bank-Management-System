@@ -1,4 +1,4 @@
-# Blood Bank Management System
+# Blood-Pulse: Blood Bank Management System
 
 ## Overview
 This Blood Bank Management System is a web-based application designed to facilitate the management of blood donation, inventory, and distribution processes within a blood bank or a similar organization. It provides an intuitive interface for both donors and administrators to interact with the system.
